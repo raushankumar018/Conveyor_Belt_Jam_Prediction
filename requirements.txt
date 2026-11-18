@@ -1,1 +1,12 @@
 # Add project dependencies here.
+
+pandas
+numpy
+scikit-learn
+joblib
+mlflow
+fastapi
+uvicorn
+pydantic
+pytest
+httpx
